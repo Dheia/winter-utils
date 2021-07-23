@@ -1,0 +1,17 @@
+{
+    "name": "norotaro/winter-utils",
+    "description": "This package is intended for use by WinterCMS plugins",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Norotaro\\WinterUtils\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nelson Otazo",
+            "email": "nelsonotazo+support@gmail.com"
+        }
+    ]
+}
