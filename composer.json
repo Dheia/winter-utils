@@ -13,5 +13,12 @@
             "name": "Nelson Otazo",
             "email": "nelsonotazo+support@gmail.com"
         }
-    ]
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Norotaro\\WinterUtils\\ServiceProvider"
+            ]
+        }
+    }
 }
